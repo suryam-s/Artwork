@@ -1,10 +1,11 @@
 const data = {
   products: [
     {
+      
       name: 'Nike Slim shirt',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
-      image: '/images/p1.jpg', // 679px × 829px
+      image: '/images/giftguidetile.jpg', // 679px × 829px
       price: 120,
       countInStock: 10,
       brand: 'Nike',
@@ -13,22 +14,24 @@ const data = {
       description: 'high quality shirt',
     },
     {
+      
       name: 'Adidas Fit Shirt',
       slug: 'adidas-fit-shirt',
       category: 'Shirts',
-      image: '/images/p2.jpg',
+      image: '/images/5936217-HSC00002-25.jpg',
       price: 250,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'Adidas',
       rating: 4.0,
       numReviews: 10,
       description: 'high quality product',
     },
     {
+     
       name: 'Nike Slim Pant',
       slug: 'nike-slim-pant',
       category: 'Pants',
-      image: '/images/p3.jpg',
+      image: '/images/World.jpg',
       price: 25,
       countInStock: 15,
       brand: 'Nike',
@@ -37,10 +40,11 @@ const data = {
       description: 'high quality product',
     },
     {
+      
       name: 'Adidas Fit Pant',
       slug: 'adidas-fit-pant',
       category: 'Pants',
-      image: '/images/p4.jpg',
+      image: '/images/index.jpg',
       price: 65,
       countInStock: 5,
       brand: 'Puma',
