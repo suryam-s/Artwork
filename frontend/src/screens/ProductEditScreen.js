@@ -61,7 +61,7 @@ export default function ProductEditScreen() {
   const [images, setImages] = useState([]);
   const [category, setCategory] = useState('');
   const [countInStock, setCountInStock] = useState('');
-  const [brand, setBrand] = useState('');
+  const [Artist, setArtist] = useState('');
   const [description, setDescription] = useState('');
 
   useEffect(() => {
@@ -76,7 +76,7 @@ export default function ProductEditScreen() {
         setImages(data.images);
         setCategory(data.category);
         setCountInStock(data.countInStock);
-        setBrand(data.brand);
+        setArtist(data.Artist);
         setDescription(data.description);
         dispatch({ type: 'FETCH_SUCCESS' });
       } catch (err) {
@@ -103,7 +103,7 @@ export default function ProductEditScreen() {
           image,
           images,
           category,
-          brand,
+          Artist,
           countInStock,
           description,
         },
@@ -236,10 +236,10 @@ export default function ProductEditScreen() {
             />
           </Form.Group>
           <Form.Group className="mb-3" controlId="brand">
-            <Form.Label>Brand</Form.Label>
+            <Form.Label>Artist</Form.Label>
             <Form.Control
-              value={brand}
-              onChange={(e) => setBrand(e.target.value)}
+              value={Artist}
+              onChange={(e) => setArtist(e.target.value)}
               required
             />
           </Form.Group>

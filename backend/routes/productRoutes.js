@@ -21,7 +21,7 @@ productRouter.post(
       image: '/images/p1.jpg',
       price: 0,
       category: 'sample category',
-      brand: 'sample brand',
+      Artist: 'sample Artist name',
       countInStock: 0,
       rating: 0,
       numReviews: 0,
@@ -46,7 +46,7 @@ productRouter.put(
       product.image = req.body.image;
       product.images = req.body.images;
       product.category = req.body.category;
-      product.brand = req.body.brand;
+      product.Artist = req.body.Artist;
       product.countInStock = req.body.countInStock;
       product.description = req.body.description;
       await product.save();

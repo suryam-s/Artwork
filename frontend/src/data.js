@@ -2,29 +2,29 @@ const data = {
   products: [
     {
       
-      name: 'Nike Slim shirt',
-      slug: 'nike-slim-shirt',
-      category: 'Shirts',
-      image: '/images/giftguidetile.jpg', // 679px × 829px
-      price: 120,
+      name: 'TAEGESSCHU',
+      slug: 'TAEGESSCHU',
+      category: 'Fantasy',
+      image: 'https://res.cloudinary.com/dtnyczk0u/image/upload/v1667566098/kgtuthxd9xiqmjmu5dmt.webp', // 679px × 829px
+      price: 630,
       countInStock: 10,
-      brand: 'Nike',
+      Artist: 'ARCHAN NAIR',
       rating: 4.5,
       numReviews: 10,
-      description: 'high quality shirt',
+      description: 'explores the macro and micro spaces between and around us',
     },
     {
       
-      name: 'Adidas Fit Shirt',
-      slug: 'adidas-fit-shirt',
-      category: 'Shirts',
-      image: '/images/5936217-HSC00002-25.jpg',
-      price: 250,
-      countInStock: 0,
-      brand: 'Adidas',
+      name: 'LUSH',
+      slug: 'LUSH',
+      category: 'Fantasy',
+      image: 'https://res.cloudinary.com/dtnyczk0u/image/upload/v1667566283/emy4wkpoaeucadkroumx.webp',
+      price: 700,
+      countInStock: 5,
+      Artist: 'JOHNNY GANTA',
       rating: 4.0,
       numReviews: 10,
-      description: 'high quality product',
+      description: 'Lush is a digitially constructed collage dreamscape that works as a heightened sensory vehicle for the mystical side of reality',
     },
     {
      
@@ -34,7 +34,7 @@ const data = {
       image: '/images/World.jpg',
       price: 25,
       countInStock: 15,
-      brand: 'Nike',
+      Artist: 'Nike',
       rating: 4.5,
       numReviews: 14,
       description: 'high quality product',
@@ -47,7 +47,7 @@ const data = {
       image: '/images/index.jpg',
       price: 65,
       countInStock: 5,
-      brand: 'Puma',
+      Artist: 'Puma',
       rating: 4.5,
       numReviews: 10,
       description: 'high quality product',
