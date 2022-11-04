@@ -1,3 +1,13 @@
+.navbar-dark .navbar-nav .nav-link {
+  color: #63d90a;
+}
+.show>.nav-link {
+  color: #e966a3;
+}
+.navbar-brand {
+  padding-left: 2rem;
+  padding-right: 4rem;
+}
 .navbar-dark .navbar-brand {
   color: #e91d1d;
 }
