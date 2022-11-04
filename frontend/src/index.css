@@ -1,3 +1,16 @@
+.navbar-dark .navbar-brand {
+  color: #e91d1d;
+}
+
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: navy !important;
+}
+
+.navbar{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,10 +24,11 @@ body {
 }
 main {
   flex: 1;
+  background-color: rgba(186, 218, 127, 0.918);
 }
 .btn-primary,
 .btn-outline-primary {
-  background-color: #f0c040;
+  background-color: #7abf9c;
   color: #000000;
 }
 .products {
@@ -124,4 +138,10 @@ main {
 }
 button.thumbnail {
   padding: 0;
+}
+footer{
+  background-color: rgba(186, 218, 127, 0.918);
+}
+.text-center{
+  font-size: large;
 }
