@@ -18,7 +18,7 @@
 
 - 1. Clone repo
 
-$ git clone git@github.com/suryam2048/Artwork.git
+$ git clone github.com/suryam2048/Artwork.git
 $ cd Artwork
 
 - 2. Create .env File
