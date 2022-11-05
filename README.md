@@ -57,3 +57,8 @@ $- npm start
 
 - Contact :
 - Mail to:(suryam2048@gmail.com)
+
+-Output
+
+![Screenshot_20221105_012726](https://user-images.githubusercontent.com/73601764/200131913-d3769c54-f561-4f10-b213-5efb3c4cf716.png)
+
