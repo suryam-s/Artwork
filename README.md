@@ -62,3 +62,10 @@ $- npm start
 
 ![Screenshot_20221105_012726](https://user-images.githubusercontent.com/73601764/200131913-d3769c54-f561-4f10-b213-5efb3c4cf716.png)
 
+![Screenshot_20221105_012924](https://user-images.githubusercontent.com/73601764/200131954-a4f61d15-2101-4368-9ac2-eefbef5a8d7f.png)
+
+![Screenshot_20221105_015624](https://user-images.githubusercontent.com/73601764/200131974-b9209697-b20e-4c14-8518-6653724cb897.png)
+
+![Screenshot_20221105_012816](https://user-images.githubusercontent.com/73601764/200131992-848f397e-8e3d-4185-980e-cac5cc5af5cf.png)
+
+![Screenshot_20221105_015641](https://user-images.githubusercontent.com/73601764/200131998-ba33b62e-7568-451f-9123-b430929ab3e4.png)
