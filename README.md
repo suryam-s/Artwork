@@ -1,9 +1,5 @@
 - ARTWORK
 
-- Demo Website
-
-- > Heroku : ("https://hclartwork.herokuapp.com/")
-
 - You Will Learn
 
 - HTML5 and CSS: Semantic Elements, CSS Grid, Flexbox
